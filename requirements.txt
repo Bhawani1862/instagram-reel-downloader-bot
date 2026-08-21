@@ -1,0 +1,7 @@
+python-telegram-bot==20.3
+instagrapi==2.0.0
+yt-dlp==2023.11.16
+requests==2.31.0
+python-dotenv==1.0.0
+Pillow==10.0.0
+sqlalchemy==2.0.23
